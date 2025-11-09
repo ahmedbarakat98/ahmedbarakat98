@@ -42,20 +42,21 @@
 </p>
 
 #### 🗺️ GIS
-<p align="left" style="background-color:#0d1117; padding:10px; border-radius:10px;">
+<p align="left" style="background-color:#0d1117; padding:10px; border-radius:10px; display:flex; gap:15px;">
   <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/arcgis.svg" width="45" height="45" alt="ArcGIS"  />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/arcgis.svg" width="45" height="45" alt="ArcGIS" style="filter: invert(1); transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='invert(1) drop-shadow(0 0 6px white)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='invert(1)';" />
   </a>
   <a href="https://qgis.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/qgis.svg" width="45" height="45" alt="QGIS" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/qgis.svg" width="45" height="45" alt="QGIS" style="filter: invert(1); transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='invert(1) drop-shadow(0 0 6px white)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='invert(1)';" />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="45" height="45" alt="Excel"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="45" height="45" alt="Excel" style="filter: invert(1); transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='invert(1) drop-shadow(0 0 6px white)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='invert(1)';" />
   </a>
   <a href="https://www.google.com/sheets/about/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlesheets.svg" width="45" height="45" alt="Google Sheets"  />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlesheets.svg" width="45" height="45" alt="Google Sheets" style="filter: invert(1); transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='invert(1) drop-shadow(0 0 6px white)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='invert(1)';" />
   </a>
 </p>
+
 
 
 
