@@ -41,6 +41,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" width="45" height="45" alt="Visual Studio" />
 </p>
 
+#### 🗺️ GIS
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/ArcGIS_logo.png" width="45" height="45" alt="ArcGIS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/QGIS_logo_new.svg" width="45" height="45" alt="QGIS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="45" height="45" alt="Microsoft Excel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Sheets_logo_%282014-2020%29.svg" width="45" height="45" alt="Google Sheets" />
+</p>
+
+
 ---
 
 ### 📊 GitHub Stats
